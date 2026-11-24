@@ -28,4 +28,4 @@ The judge brief rewards a label that (1) is unmistakably a time machine warning,
 - **Real hazard, made into the joke.** The butterfly effect — one crushed insect rewriting history — is the classic time-travel danger, but instead of naming it flatly the label turns it into a specific, personal disaster: the butterfly you just stepped on might be your own ancestor.
 - **Surprise at the end.** The first sentence reads like an ordinary caution sign. The punchline lands in the last clause, where "great-great-grandfather" reframes a trivial insect as family.
 - **Deadpan official calm.** It opens with "WARNING:" and reads like a notice taped to the dashboard of the machine — the joke cuts against that bureaucratic calm instead of winking at the reader.
-- **No wasted words.** At 87 characters it uses every phrase: the warning, the hazard, and the twist that makes stepping on a butterfly a genealogical crime.
+- **No wasted words.** At 85 characters it uses every phrase: the warning, the hazard, and the twist that makes stepping on a butterfly a genealogical crime.
